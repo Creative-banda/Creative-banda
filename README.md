@@ -48,7 +48,11 @@ const identity = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Creative-banda&show_icons=true&theme=transparent&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=8B949E&border_color=30363D&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" alt="Stats" height="160"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Creative-banda&show_icons=true&theme=transparent&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=8B949E&border_color=30363D&hide_border=false&include_all_commits=true&count_private=true&hide_rank=true" alt="Stats" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Creative-banda&theme=transparent&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=8B949E&currStreakNum=8B949E&dates=8B949E&sideNums=8B949E&border=30363D&hide_border=false" alt="Streak Stats" height="160"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Creative-banda&layout=compact&theme=transparent&bg_color=0D1117&title_color=6C63FF&text_color=8B949E&border_color=30363D&hide_border=false&langs_count=6" alt="Top Languages" height="160"/>
 
 </div>
 
